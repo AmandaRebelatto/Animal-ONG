@@ -1,0 +1,35 @@
+ body {
+    font-family: 'Cambria', 'Cochin', 'Georgia', Times, serif;
+  background-color: rgb(234, 255, 241);
+  }
+
+  .nav-pills {
+    background-color: rgb(243, 202, 229);
+  }
+
+  .container{
+    background-color: #d4edff;
+  }
+
+  #cabecalho{
+    background-image: url('img_pg_iniciaal.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  #bot{
+    background-color: #a5e6ff;
+  }
+
+  #titulo{
+    font-family:'Castellar','Ink Free','Bahnschrift','Helvetica';
+    background-color: #b8e1ff;
+  }
+
+  a{
+    color: #000000;
+  }
+
+  #ativo{
+    color: #79bcfa;
+  }
